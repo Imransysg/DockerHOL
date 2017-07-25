@@ -1,0 +1,22 @@
+{
+  "$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentTemplate.json#",
+  "contentVersion": "1.0.0.0",
+  "parameters": { },
+  "variables": { },
+  "resources": [ ],
+  "outputs": {
+    "Jenkins FQDN Url": {
+      "type": "string",
+      "value": "jenkins-0-ocdnsn5d5e76lz4e6w.westus.cloudapp.azure.com"
+    },
+    "DTRLoginURL": {
+      "type": "string",
+      "value": "https://dtrlb-y5e6urbmgshym.westus.cloudapp.azure.com"
+    },
+    "UCPLoginURL": {
+      "type": "string",
+      "value": "https://ucplb-y5e6urbmgshym.westus.cloudapp.azure.com"
+    }
+  }
+}
+
