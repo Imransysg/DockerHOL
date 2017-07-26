@@ -7,15 +7,15 @@
   "outputs": {
     "Jenkins FQDN Url": {
       "type": "string",
-      "value": "jenkins-0-ocdnsp34a23rigm4f6.westus.cloudapp.azure.com"
+      "value": "jenkins-0-ocdnsn5d5e76lz4e6w.westus.cloudapp.azure.com"
     },
     "DTRLoginURL": {
       "type": "string",
-      "value": "https://dtrlb-4l77ngfq7bc46.westus.cloudapp.azure.com"
+      "value": "https://dtrlb-y5e6urbmgshym.westus.cloudapp.azure.com"
     },
     "UCPLoginURL": {
       "type": "string",
-      "value": "https://ucplb-4l77ngfq7bc46.westus.cloudapp.azure.com"
+      "value": "https://ucplb-y5e6urbmgshym.westus.cloudapp.azure.com"
     }
   }
 }
